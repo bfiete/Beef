@@ -1,0 +1,3 @@
+[submodule "docdock"]
+path = Hugo/beef-lang.org/themes/docdock
+url = git://github.com/vjeantet/hugo-theme-docdock.git
